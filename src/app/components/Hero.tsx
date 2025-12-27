@@ -3,7 +3,7 @@ import { useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import confetti from "canvas-confetti";
 import photo1 from "src/assets/5993fac721708a0c3004bea89a4c0d656faa80a8.png";
-import photo2 from "src/assets/hero-bg2.png";
+import photo2 from "src/assets/3e30d42b90ab5be6471e165dc94da3e1bacb8dc9.png";
 
 const photos = [
   photo1,
