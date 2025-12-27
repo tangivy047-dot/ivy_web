@@ -2,8 +2,8 @@ import { motion } from "motion/react";
 import { useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import confetti from "canvas-confetti";
-import photo1 from "src/assets/hero-bg1.png";
-import photo2 from "src/assets/hero-bg2.png";
+import photo1 from "../../assets/hero-bg1.png";
+import photo2 from "../../assets/hero-bg2.png";
 
 const photos = [
   photo1,
